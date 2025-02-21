@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/zahraejaz77/zahraejaz77/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zahraejaz77/zahraejaz77/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
