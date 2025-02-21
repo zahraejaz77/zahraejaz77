@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zahraejaz77/zahraejaz77/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://raw.githubusercontent.com/zahraejaz77/zahraejaz77/output/github-contribution-grid-snake.svg)
 
 ###
