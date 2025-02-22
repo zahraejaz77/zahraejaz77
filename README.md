@@ -7,6 +7,7 @@
 <p align="left" style="font-size: 1.2em; color: #555; line-height: 1.5;">
   I'm currently working with <strong>Next.js</strong> and <strong>React</strong>, crafting dynamic, responsive web applications.
 </p>
+
 ###
 
 <div align="center">
