@@ -1,4 +1,21 @@
-<h2 align="left">Hi 👋! I'm Zahra <br>An enthusiast  Web Developer!</h2>
+<h1 align="left" style="font-size: 2.5em; margin-bottom: 0.2em;">
+  Hi 👋, I'm <span style="color: #e34c26;">Zahra</span>
+</h1>
+<h3 align="left" style="font-size: 1.5em; font-weight: normal; color: #333;">
+  A Passionate Web Developer
+</h3>
+<p align="left" style="font-size: 1.2em; color: #555; line-height: 1.5;">
+  I'm currently working with <strong>Next.js</strong> and <strong>React</strong>, crafting dynamic, responsive web applications.
+</p>
+<p align="left" style="font-size: 1.2em; color: #555; line-height: 1.5;">
+  As a creative developer, my passion lies in building unique digital products that not only look great but also deliver an outstanding user experience.
+</p>
+<p align="left" style="font-size: 1.2em; color: #555; line-height: 1.5;">
+  I'm also enthusiastic about working on <strong>AI projects</strong> and exploring innovative ways to integrate artificial intelligence into digital solutions.
+</p>
+<p align="left" style="font-size: 1.2em; color: #555; line-height: 1.5;">
+  I'm always exploring new technologies and ideas, eager to transform concepts into reality. Let's build something amazing together!
+</p>
 
 ###
 
