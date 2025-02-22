@@ -7,10 +7,6 @@
 <p align="left" style="font-size: 1.2em; color: #555; line-height: 1.5;">
   I'm currently working with <strong>Next.js</strong> and <strong>React</strong>, crafting dynamic, responsive web applications.
 </p>
-<p align="left" style="font-size: 1.2em; color: #555; line-height: 1.5;">
-  As a creative developer, I'm passionate about building unique digital products with Next.js, React, and AI—continuously exploring new technologies while embracing both their exciting potential and inherent challenges.
-</p>
-
 ###
 
 <div align="center">
