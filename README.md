@@ -2,10 +2,12 @@
   Hi 👋, I'm <span style="color: #e34c26;">Zahra</span>
 </h1>
 <h3 align="left" style="font-size: 1.5em; font-weight: normal; color: #333;">
-  A Passionate Web Developer
+  A Driven Web Developer
 </h3>
 <p align="left" style="font-size: 1.2em; color: #555; line-height: 1.5;">
-  I'm currently working with <strong>Next.js</strong> and <strong>React</strong>, crafting dynamic, responsive web & mobile applications.
+  Currently working with <strong>Next.js</strong>, <strong>React</strong>, and <strong>Supabase</strong><br>
+  🗄️ Exploring <strong>PostgreSQL</strong> and backend integration<br>
+  📱 Crafting <strong>dynamic, responsive</strong> web & mobile applications
 </p>
 
 ###
